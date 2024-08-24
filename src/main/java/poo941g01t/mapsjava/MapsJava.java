@@ -6,14 +6,6 @@ package poo941g01t.mapsjava;
 
 /**
  *
- * @author uve63
- *//*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
  * @author Milena Jiménez
  */
 import java.util.HashMap;
