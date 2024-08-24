@@ -5,7 +5,6 @@
 package poo941g01t.mapsjava;
 
 /**
- *
  * @author Milena Jiménez
  */
 import java.util.HashMap;
